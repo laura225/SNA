@@ -17,12 +17,13 @@
 -   Hauptrolle (Schauspieler/Film) = 2
 
 -   Nebenrolle (Schauspieler/Film) = 3
-
+  
+\
 **winner** ( Preise der Schauspieler\*innen )
 
 -   Preis = 1
 
--   Kein Preis= 2
+-   Kein Preis = 2
 
 # Nodelist
 
@@ -30,10 +31,12 @@
 
 -   eindeutige Identifikation jedes einzelnen Knotens
 
+\
 **name**
 
 -   Name oder Bezeichnung des Knotens
 
+\
 **sex**
 
 -   weiblich = 1
@@ -42,20 +45,26 @@
 
 -   divers = 3
 
+\
 **role**
 
 -   Hauptrolle = 1
 
 -   Nebenrolle = 2
 
+\
 **year**
 
 -   Jahr des gewonnenen Filmpreises
 
+
+\
 **birth**
 
 -   Geburtsjahr der Schauspielerinnen
 
+
+\
 **type** (Art des Knotens)
 
 -   Schauspielerin = 1
@@ -64,6 +73,8 @@
 
 -   Spielfilm = 3
 
+
+\
 **prize**
 
 -   Gold = 1
